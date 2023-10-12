@@ -107,18 +107,10 @@
   padding: 17px 56px 18px 55px;
 }
 
-.u-section-1 .u-image-2 {
-  width: 525px;
-  height: 347px;
-  filter: brightness(0.95);
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: -51px 0 0 auto;
-}
-
 .u-section-1 .u-btn-11 {
   background-image: none;
   box-shadow: 7px 8px 25px 0px rgba(0,0,0,1);
-  margin: -347px auto 0 253px;
+  margin: -51px auto 0 253px;
   padding: 17px 29px 18px;
 }
 
@@ -307,12 +299,7 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-image-2 {
-    width: 340px;
-    height: 225px;
-  }
-
   .u-section-1 .u-btn-11 {
-    margin-top: -225px;
+    margin-top: 71px;
   }
 }
