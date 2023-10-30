@@ -10,7 +10,7 @@
 .u-section-1 .u-btn-1 {
   background-image: none;
   box-shadow: 7px 8px 25px 0px rgba(0,0,0,1);
-  margin: 17px 80px 0 auto;
+  margin: 47px 80px 0 888px;
   padding: 17px 29px 18px;
 }
 
@@ -105,6 +105,7 @@
   .u-section-1 .u-btn-1 {
     margin-top: 126px;
     margin-right: 0;
+    margin-left: 768px;
   }
 
   .u-section-1 .u-btn-2 {
@@ -169,6 +170,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: -73px;
+    margin-left: 548px;
   }
 
   .u-section-1 .u-btn-2 {
@@ -204,6 +206,10 @@
     min-height: 460px;
   }
 
+  .u-section-1 .u-btn-1 {
+    margin-left: 368px;
+  }
+
   .u-section-1 .u-btn-5 {
     margin-right: 0;
     margin-left: 365px;
@@ -236,6 +242,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 321px;
+    margin-left: 168px;
   }
 
   .u-section-1 .u-btn-5 {
